@@ -1,6 +1,6 @@
 function Home() {
-    return <h1>Funcionou tranquilamente</h1>
-
+    return <h1>Funcionou tranquilamente :)
+    </h1>
 
 }
 
